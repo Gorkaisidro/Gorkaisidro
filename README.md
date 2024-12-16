@@ -29,5 +29,5 @@ Me entusiasma crear soluciones innovadoras utilizando herramientas y tecnología
 ---
 
 ## 📩 ¡Contáctame!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gorka_Isidro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](www.linkedin.com/in/gorka-isidro-matxinandiarena)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gorka_Isidro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/gorka-isidro-matxinandiarena)
 [![Email](https://img.shields.io/badge/Email-Gorka_Isidro-44a3f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:gorkaisidro19@gmail.com)
