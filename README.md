@@ -1,7 +1,7 @@
 # Hola, mi nombre es Gorka Isidro 👋
 ## 👨‍💻 Sobre mí
 Soy **Desarrollador de Aplicaciones Multiplataforma**, especializado en la programación de aplicaciones móviles.<br>
-Me entusiasma crear soluciones innovadoras utilizando herramientas y tecnologías modernas que permitan dedarrollar aplicaciones intuitivas y de alto rendimiento.
+Me entusiasma crear soluciones innovadoras utilizando herramientas y tecnologías modernas que permitan desarrollar aplicaciones intuitivas y de alto rendimiento.
 
 ---
 
